@@ -1,2 +1,2 @@
-# Calculadora
-Programa Básico que simula uma calculadora
+# Exercícios de Programação
+Programas feito na aulas :)
