@@ -1,2 +1,2 @@
 # Exercícios de Programação
-Programas feito na aulas :)
+Programas feito nas aulas :)
